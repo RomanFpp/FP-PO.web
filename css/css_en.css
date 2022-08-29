@@ -1,0 +1,52 @@
+﻿.masseuer:after{
+   content:"Masseur";
+   font-family: 'Pacifico', cursive;
+   color:#E6D9D9;
+   text-shadow: 0px 0px 4px #210404;
+   position:relative;
+   top:-100px;
+   left:156px;
+   opacity:0;
+}
+
+ .gardener:after{
+   content:"Gardener";
+   font-family: 'Comfortaa', cursive;
+   color:white;
+   text-shadow: 0px 0px 4px #211515;
+   position:relative;
+   top:-100px;
+   left:156px;
+   opacity:0;
+
+ }
+  .cafe:after{
+   content:"Cafeteria";
+  font-family: 'Lobster', cursive;
+   color: #E7E5E3;
+   text-shadow: 0px 0px 4px #080000;
+   position:relative;
+   top:-100px;
+   left:156px;
+   opacity:0;
+  }
+  .mechanic:after{
+   content:"Mechanic";
+   font-family: 'Vollkorn SC', cursive;
+   color:#FEF9FF;
+   text-shadow: 0px 0px 2px #020D15;
+   position:relative;
+   top:-100px;
+   left:156px;
+   opacity:0;
+  }
+  .bsh:after{
+   content:"Hairdresser";
+   font-family: 'Pacifico', cursive;
+   color:white;
+   text-shadow: 0px 0px 3px #3B1E12;
+   position:relative;
+   top:-100px;
+   left:156px;
+   opacity:0;
+  }
